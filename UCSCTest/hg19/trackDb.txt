@@ -1,0 +1,9 @@
+track Chip-Seq
+bigDataUrl nomdufichier
+shortLabel Chip-Seq
+longLabel Chip-Seq
+showSubtrackColorOnUi on
+type bigWig
+
+
+

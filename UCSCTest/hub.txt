@@ -1,0 +1,5 @@
+hub Test
+shortLabel Testtest
+longLabel superTesttest
+genomesFile genomes.txt
+email adrien.foucal@gmail.com 
